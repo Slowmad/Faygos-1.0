@@ -1,0 +1,69 @@
+{
+  "minecraft": {
+    "version": "1.20.4",
+    "modLoaders": [
+      {
+        "id": "fabric-0.15.6",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Faygos",
+  "version": "1.0",
+  "author": "",
+  "files": [
+    {
+      "projectID": 322506,
+      "fileID": 5077991,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 4953893,
+      "required": true
+    },
+    {
+      "projectID": 667299,
+      "fileID": 5045675,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 5052823,
+      "required": true
+    },
+    {
+      "projectID": 459857,
+      "fileID": 4954177,
+      "required": true
+    },
+    {
+      "projectID": 495267,
+      "fileID": 4897797,
+      "required": true
+    },
+    {
+      "projectID": 790626,
+      "fileID": 5077295,
+      "required": true
+    },
+    {
+      "projectID": 308769,
+      "fileID": 4975630,
+      "required": true
+    },
+    {
+      "projectID": 679177,
+      "fileID": 4897791,
+      "required": true
+    },
+    {
+      "projectID": 574741,
+      "fileID": 5038141,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
